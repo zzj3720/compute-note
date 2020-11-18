@@ -3,8 +3,7 @@
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
-    "develop": "mv ./dist ./docs & git add ./docs"
+    "build": "vite build"
   },
   "dependencies": {
     "vue": "^3.0.2"
